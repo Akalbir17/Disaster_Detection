@@ -2,12 +2,8 @@
 Disaster detection using deep learning algorithms
 
 ## Contents 
-- Compressed Dataset File
-- Uncompressed Dataset File
+- Dataset Link - https://www.kaggle.com/varpit94/disaster-images-dataset
 - Dataset Splitting and Cleaning (ipynb file)
-- Training data folder
-- Validation data folder
-- A sample image for testing
 - VGG-16 and ResNet50 code files (ipynb)
 - VGG-16 and ResNet50 saved models (folders)
 
